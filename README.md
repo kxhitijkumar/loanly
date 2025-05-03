@@ -1,4 +1,4 @@
-# Loan.ly 💸
+# Loan.ly 
 
 **Decentralized Emergency Loan Networks for Underserved Communities**
 
