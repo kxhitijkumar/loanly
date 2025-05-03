@@ -1,4 +1,4 @@
-# loan_ly 💸
+# Loan.ly 💸
 
 **Decentralized Emergency Loan Networks for Underserved Communities**
 
@@ -13,7 +13,7 @@ When emergencies arise, these individuals often turn to predatory lenders with e
 
 ## ✅ Solution
 
-**loan_ly** is a decentralized platform designed to directly connect borrowers and lenders, enabling:
+**Loan.ly** is a decentralized platform designed to directly connect borrowers and lenders, enabling:
 - Instant microloans with fair terms
 - Social trust-based creditworthiness
 - Transparent and fast application processes
@@ -45,14 +45,7 @@ This empowers underserved communities by making emergency credit **accessible, a
 - 📲 Mobile-first user experience
 - 🛡️ Secure and privacy-respecting authentication
 
-## 📡 Team HTTP STATUS 418
-
-- Samarth Asija – `225805304`
-- Kriti Mohanty – `225890552`
-- Kshitij Kumar – `225805326`
-- Sreeram Chengaloor – `225890490`
-
 ---
 
-> “Financial inclusion is not a privilege—it’s a right. With *loan_ly*, we move closer to a world where emergency credit is fair, fast, and for everyone.”
+> “Financial inclusion is not a privilege—it’s a right. With *loan.ly*, we move closer to a world where emergency credit is fair, fast, and for everyone.”
 
